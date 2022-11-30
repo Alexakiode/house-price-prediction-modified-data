@@ -68,7 +68,7 @@ import pymongo
 from pymongo import MongoClient 
 
 #Creating client variable for the dataset access from MongoDB cloud or a local host
-client = MongoClient("mongodb+srv://alexanderakiode:Greats11@cluster0.qcurgqp.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://username:password@cluster0.qcurgqp.mongodb.net/?retryWrites=true&w=majority")
 
 #Local host code lines might look like this
 #client = MongoClient("mongodb://localhost:27017/")
@@ -320,4 +320,5 @@ class House_price_GUI:
         self.lab_var.set("Total:           £%d" %reset)
     
 #Calling the House price class
+
 House_price_GUI()
