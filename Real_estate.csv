@@ -1,4 +1,4 @@
-No,house age,distance to the nearest MRT station,number of convenience stores,latitude,longitude,house price of unit area,
+No,house_age,dist_to_station,no_of_store,latitude,longitude,house_price_of_unit_area,house_price_in_pound
 1,32,84.87882,10,24.98298,121.54024,37.9,379000
 2,19.5,306.5947,9,24.98034,121.53951,42.2,422000
 3,13.3,561.9845,5,24.98746,121.54391,47.3,473000
