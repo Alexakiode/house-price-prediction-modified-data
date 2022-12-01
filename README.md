@@ -11,4 +11,6 @@ https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 
 https://www.kaggle.com/datasets/smitisinghal/real-estate-dataset
 
-Please visit https://alexanderakiode.wordpress.com for more about me
+Please visit https://alexanderakiode.wordpress.com and 
+
+https://www.linkedin.com/in/alexander-olusegun-akiode/  for more about me
